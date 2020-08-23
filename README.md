@@ -1,5 +1,8 @@
 # Calculator
 
+### A JS Calculator
+
+Built with vanilla JS, this calculator can perform basic operations as well as mod (%). 
 
 * [x] Create HTML interface 
 * [x] Style calculator with CSS
